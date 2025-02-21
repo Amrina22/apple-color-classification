@@ -67,7 +67,7 @@ results = model("dataset/apple_video.mp4", save=True)
 Setelah menjalankan kode di atas, Anda akan mendapatkan:
 ✅ Gambar dengan bounding box dan label warna apel  
 ✅ Jumlah total apel berdasarkan warnanya  
-![Output](https://github.com/Amrina22/apple-color-classification/blob/main/apple-color-classification.jpg)
+<img src="https://github.com/Amrina22/apple-color-classification/blob/main/apple-color-classification.jpg" alt="Output" width="500"/>
 
 ---
 
